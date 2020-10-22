@@ -9,4 +9,5 @@
 | 经营的团队 | [未来视觉演绎组](https://milai.tech) |
 | 个人博客 | [MiLai forum](https://world.milai.tech) |
 | 联络 | zzstarsound@gmail.com |
+| 私教 | 接日本留学（EJU）数学、早稻田大学、东京工业大学入学数学对策；以及大学线性代数、微积分补习私教，课程和价格咨询请通过邮件联络我（阮老师） |
 
