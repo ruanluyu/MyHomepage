@@ -1,2 +1,2 @@
 # MyHomepage
-web document of [zzstarsound.com](zzstarsound.com)
+web document of [zzstarsound.com](http://zzstarsound.com)
