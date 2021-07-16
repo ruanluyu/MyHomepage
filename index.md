@@ -4,10 +4,7 @@
 
 | 所属 | 早稲田大学 [松嶋研究室](http://www.matsu.mgmt.waseda.ac.jp/labo/index) |
 | 专业 | 1. 応用数理専攻 <br> 2. 情報理工副専攻 |
-| 在做的事 |  [PixelsWorld開発者](https://milai.tech/products/PixelsWorld/) <br> 
-在日数学塾講師 <br> 
-情報理論・データアナリティクス<br> 
-符号理論、情報理論、確率論、統計学 <br> |
+| 在做的事 |  [PixelsWorld開発者](https://milai.tech/products/PixelsWorld/) <br> 在日数学塾講師 <br> 情報理論・データアナリティクス<br> 符号理論、情報理論、確率論、統計学 <br> |
 |感兴趣的研究| 通信、编码领域的课题（sum-product復号法、LDPC通信システム） |
 | 经营的团队 | [未来视觉演绎组](https://milai.tech) |
 | 个人博客 | [MiLai forum](https://world.milai.tech) |
