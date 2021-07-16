@@ -16,8 +16,6 @@
 
 在日留学生対象の大学入試**数学**対策・大学教養の個人家庭教師をやっています．
 
-课程报名请[点击这里](mailto:zzstarsound@gmail.com?subject=%E6%97%A5%E6%9C%AC%E7%95%99%E5%AD%A6%E7%A7%81%E6%95%99%E8%AF%BE%E7%A8%8B%E5%92%A8%E8%AF%A2&body=%E9%98%AE%E8%80%81%E5%B8%88%EF%BC%8C%E4%BD%A0%E5%A5%BD%EF%BC%81%0A%0A%E6%88%91%E6%98%AF%EF%BC%9A%0A%E6%88%91%E6%83%B3%E5%92%A8%E8%AF%A2%EF%BC%9A%0A%0A%E6%88%91%E7%9A%84%E8%81%94%E7%B3%BB%E6%96%B9%E5%BC%8F%EF%BC%9A)．
-
 ### 料金一覧表：
 
 - EJU对策: `6000円/h`
