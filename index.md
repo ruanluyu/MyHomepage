@@ -5,12 +5,12 @@
 |||
 |---|---|
 | 所属 | 早稲田大学 [松嶋研究室](http://www.matsu.mgmt.waseda.ac.jp/labo/index) |
-| 专业 | 1. 応用数理専攻 <br> 2. 情報理工副専攻 |
-| 在做的事 |  [PixelsWorld開発者](https://milai.tech/products/PixelsWorld/) <br> 在日数学塾講師 <br> 情報理論・データアナリティクス<br> 符号理論、情報理論、確率論、統計学|
-|感兴趣的研究| 通信、编码领域的课题（sum-product復号法、LDPC通信システム） |
-| 经营的团队 | [未来视觉演绎组](https://milai.tech) |
+| 专业 | 応用数理 |
+| 在做的事 |  [PixelsWorld開発者](https://milai.tech/products/PixelsWorld/) <br> 在日数学塾講師 <br> 情報理論・データアナリティクス<br> 符号理論、情報理論、確率論、統計学<br> 独立游戏制作人|
+|感兴趣的研究| 随机过程、贝叶斯概率模型推断、数据分析与预测 | 
+| 所属团队 | [未来视觉演绎组](https://milai.tech) - 组长 |
 | 个人博客 | [MiLai forum](https://world.milai.tech) |
-| 联络 | [zzstarsound@gmail.com](mailto:zzstarsound@gmail.com) |
+| 商务联络 | [zzstarsound@gmail.com](mailto:zzstarsound@gmail.com)  |
 
 ## 私人家庭教师
 
@@ -18,11 +18,10 @@
 
 ### 料金一覧表：
 
-- EJU对策: `6000円/h`
-- 早稻田大学、东京工业大学入試対策: `6500円/h`
-- 大学数学の予習（線形代数・微積分・情報数学・代数学・統計学・測度論・情報理論・位相空間論入門）`7000円/h`
-- プログラミング関連（C系（C/C++/C#）・Java・JavaScript・Python2/3・Lua5） `10000円/h`
-- 日本語N2/N1: `3000円/h`
+- EJU数学对策: `6,000円/h`
+- 早稻田大学、东京工业大学入試対策: `10,000+円/h`
+- 大学数学の予習（線形代数・微積分・情報数学・代数学・統計学・測度論・情報理論・位相空間論入門）`23,000+円/h`
+- プログラミング関連（C系（C/C++/C#）・Java・JavaScript・Python2/3・Lua5） `22,000+円/h`
 
 > 10小时起报，预付款
 
